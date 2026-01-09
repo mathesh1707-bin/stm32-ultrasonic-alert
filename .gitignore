@@ -53,3 +53,23 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# ==============================
+# STM32CubeIDE specific
+# ==============================
+/.settings/
+/.project
+/.cproject
+
+# Build output folders
+/Debug/
+/Release/
+/build/
+
+# CubeMX configuration
+*.ioc
+
+# CMSIS / HAL generated backups
+*.bak
+
+
