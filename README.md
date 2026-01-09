@@ -30,4 +30,4 @@ An embedded firmware project implementing a real-time ultrasonic distance alert 
 - [ ] System integration
 
 ## Author
-Mathesh Subramanian
+Mathesh S
